@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onkar Thete</h1>
 <h3 align="center">A passionate Software developer from India,and Currently Pursuing Masters in Computer Science(Artificial Intelligence) from University Of Nottingham</h3>
 
-- 🔭 I’m currently working on **Integrating Monte Carlo Simulations with DCF**
+- 🔭 I’m currently working on **Building and Neural Network model to predict subscription churn using product usage meteics using Keras.**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning,Quant Finance**
 
