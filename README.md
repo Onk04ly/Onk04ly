@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Onkar Thete</h1>
 <h3 align="center">A passionate Software developer from India,and Currently Pursuing Masters in Computer Science(Artificial Intelligence) from University Of Nottingham</h3>
 
-- 🔭 I’m currently working on **Building a Full stack website for a Local business,where I need to handle Frontend, Backend, and database connectivity with authorization with security**
+- 🔭 I’m currently working on **Building an Voice assistant from Scratch which can able to resemble JARVIS in some way.**
+- I have previously **Built an full stak website for local business where I was solo built Frontend,backend and database connectivity with authentication and security compliances for the website**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning,Quant Finance**
 
-- 💬 Ask me about **Python, MySQL, SQLServer, Deep Learning, Transformers, Neural Networks**
+- 💬 Ask me about **Python, MySQL, PostgreSQL, RAG, Deep Learning, Transformers, Neural Networks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
