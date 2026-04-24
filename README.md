@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Building an Voice assistant from Scratch which can able to resemble JARVIS in some way.**
 - I have previously **Built an full stak website for local business where I was solely responsible for building Frontend,backend and database connectivity with authentication and security compliances for the website**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning,Quant Finance**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning,Quant Finance as well as exploring frameworks such as LangGrpah and LangChain.**
 
 - 💬 Ask me about **Python, MySQL, PostgreSQL, RAG, Deep Learning, Transformers, Neural Networks**
 
